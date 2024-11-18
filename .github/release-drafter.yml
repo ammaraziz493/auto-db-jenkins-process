@@ -1,0 +1,2 @@
+_extends: .github
+tag-template: StoreHtmlFile-$NEXT_MINOR_VERSION
